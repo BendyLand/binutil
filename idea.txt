@@ -1,0 +1,10 @@
+Write a CLI utility that takes an input string and outputs it as various formats.
+For example:
+
+echo "asdfasdf" | binutil 
+
+Hex:
+6173 6466 6173 6466
+
+Binary:
+1100001 1110011 1100100 1100110 1100001 1110011 1100100 1100110
